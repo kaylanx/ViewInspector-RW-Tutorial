@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F559CCB-3952-438C-A69E-C28FB50795B8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E85D8B1D-05E2-4091-8BF9-65C6921B560F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/StepByStep-avfyqivobbioqshbtrcvvicbverf/SourcePackages/checkouts/ViewInspector/Sources/ViewInspector/SwiftUI/CustomViewModifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "unwrappedModifiedContent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E85D8B1D-05E2-4091-8BF9-65C6921B560F - ab503a555030eb0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViewInspector.Content.unwrappedModifiedContent() throws -&gt; ViewInspector.Content"
+                  moduleName = "StepByStepTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Andrew.Kayley/Library/Developer/Xcode/DerivedData/StepByStep-avfyqivobbioqshbtrcvvicbverf/SourcePackages/checkouts/ViewInspector/Sources/ViewInspector/SwiftUI/CustomViewModifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "678">
+               </Location>
+               <Location
+                  uuid = "E85D8B1D-05E2-4091-8BF9-65C6921B560F - ab503a555030eb0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViewInspector.Content.unwrappedModifiedContent() throws -&gt; ViewInspector.Content"
+                  moduleName = "StepByStepTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Andrew.Kayley/Library/Developer/Xcode/DerivedData/StepByStep-avfyqivobbioqshbtrcvvicbverf/SourcePackages/checkouts/ViewInspector/Sources/ViewInspector/SwiftUI/CustomViewModifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1549">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0E83438-3077-41D4-9F0F-BDDA710B7D77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/StepByStep-avfyqivobbioqshbtrcvvicbverf/SourcePackages/checkouts/ViewInspector/Sources/ViewInspector/EnvironmentInjection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "missingEnvironmentObjects"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
